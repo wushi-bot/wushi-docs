@@ -4,5 +4,6 @@
 
 ## Commands
 
+* [Utility](commands/utility.md)
 * [Economy](commands/economy.md)
 

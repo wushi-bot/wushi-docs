@@ -23,4 +23,5 @@ A `|` between \[ \] indicates that they can be interchanged
 | `.pay <@user> <amount>` | `.payuser`, `.userpay` | Pays the tagged user with the amount you can give | `.pay @Minota 2000` |
 | `.shop [category]`  | `.store` | Sees store and the items you can buy. | `.shop Tools`, `.shop` |
 | `.start` | None | Starts your bank account. | `.start` |
+| `.top` | `.lb`, `.leaderboard` | Gets the top 10 richest users in your server. | `.top` |
 

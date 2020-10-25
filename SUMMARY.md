@@ -6,5 +6,6 @@
 
 * [Utility](commands/utility.md)
 * [Economy](commands/economy.md)
+* [Income](commands/income.md)
 * [Meta](commands/meta.md)
 

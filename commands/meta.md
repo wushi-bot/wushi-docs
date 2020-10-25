@@ -20,4 +20,5 @@ A `|` between \[ \] indicates that they can be interchanged
 | `.stats` | `.bot-stats` | Get the stats for the bot. | `.stats` |
 | `.ping` | `.ping-pong` | Gets the bot's roundabout ping and ping to discord. | `.ping` |
 | `.help [command]` | `.commands` | Gets a list of one command and its aliases or a list of all commands. | `.help` & `.help help`. |
+| `.recommended` | `.recommended-bots` | Gets 3 recommended bots. | `.recommended` |
 

@@ -22,5 +22,4 @@ description: Welcomer variables
 | `{server.name}` | starry night |
 | `{server.id}` | 755208617203990599 |
 | `{server.membercount}` | 32 |
-|  |  |
 

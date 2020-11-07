@@ -16,7 +16,7 @@ A `|` between \[ \] indicates that they can be interchanged
 
 | Usage | Aliases | Description | Example |
 | :--- | :--- | :--- | :--- |
-| `.bal [user]`  | `.balance` | Gets you or a provided user's balance on the bot. | `.bal` or `.bal @user` |
+| `.balance [user]`  | `.bal` | Gets you or a provided user's balance on the bot. | `.bal` or `.bal @user` |
 | `.buy <item>` | `.purchase` | Purchases an item on the store, provided you have the money. | `.buy fishing_rod` |
 | `.eat <food>` | `.comer`, `.consume`, `.use` | Eats a food item in your inventory. | `.eat uber` |
 | `.inv` | `.inventory` | Checks your inventory & status effects \(that can be caused by foodstuffs\). | `.inv` |
@@ -24,4 +24,6 @@ A `|` between \[ \] indicates that they can be interchanged
 | `.shop [category]`  | `.store` | Sees store and the items you can buy. | `.shop Tools`, `.shop` |
 | `.start` | None | Starts your bank account. | `.start` |
 | `.top` | `.lb`, `.leaderboard` | Gets the top 10 richest users in your server. | `.top` |
+| `.deposit <amount>` | `.dep` | Deposits an amount of money to your bank. | `.dep 100` |
+| `.withdraw <amount>` | `.with` | Withdraws money from your bank. | `.with 100` |
 

@@ -12,4 +12,6 @@
 * [Config](commands/config.md)
 * [Leveling](commands/leveling.md)
 * [Server Shop](commands/server-shop.md)
+* [Images](commands/images.md)
+* [Social](commands/social.md)
 

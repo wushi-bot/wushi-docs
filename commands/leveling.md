@@ -21,4 +21,5 @@ Leveling is disabled by default, enable it using `.toggle Leveling`.
 | Usage | Aliases | Description | Example |
 | :--- | :--- | :--- | :--- |
 | `.rank [user]` | `.level`, `.r` | Gets you or a provided user's rank card. | `.rank Minota#0001`, or `.rank` |
+| `.levels` | None | Gets the highest EXP users on your server. | `.levels` |
 
